@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:0,70collection
+http://213.141.131.10:8002/70collection
+#EXTINF:0,80's Collection
+http://79.120.39.202:8000/pop80
+#EXTINF:0,Akordeon
+http://79.111.119.111:8000/accordion
+#EXTINF:0,Acoustic Gitara
+http://79.120.39.202:8000/acousticguitar
+#EXTINF:0,Classical Piano
+http://79.120.39.202:8000/classpiano
+#EXTINF:0,Clasic flauta
+http://79.111.14.76:8002/fluteclass
+#EXTINF:0,Enigmatic
+http://213.141.131.10:8000/enigmatic
+#EXTINF:0,Vychodna Hudba
+http://79.111.119.111:8000/fareast
+#EXTINF:0,Zeny metal
+http://79.111.14.76:8002/femalemetal
+#EXTINF:0,Flauta
+http://79.111.14.76:8002/flute
+#EXTINF:0,Folk Rock
+http://79.111.14.76:8000/folkrock
+#EXTINF:0,French Chanson
+http://79.111.14.76:8000/frenchchanson
+#EXTINF:0,Hammond Organ
+http://79.120.39.202:8000/hammond
+#EXTINF:0,Hard Rock
+http://79.120.77.11:8000/hardrock
+#EXTINF:0,Harfa
+http://213.141.131.10:8002/harp
+#EXTINF:0,Instrumental
+http://79.120.77.11:8000/instrumental
+#EXTINF:0,Instrumental Rock
+http://79.120.39.202:8000/instrumentalrock
+#EXTINF:0,Lo-fi
+http://79.111.14.76:8002/lo-fi
+#EXTINF:0,Lovesongs
+http://213.141.131.10:8002/lovesongs
+#EXTINF:0,Lutna
+http://79.120.12.130:8002/lute
+#EXTINF:0,medievalmetal
+http://213.141.131.10:8002/medievalmetal
+#EXTINF:0,Meditation
+http://79.120.77.11:8002/meditation
+#EXTINF:0,Melodicky metal
+http://79.111.14.76:8002/melodicmetalcore
+#EXTINF:0,New Age
+http://79.120.77.11:8002/newage
+#EXTINF:0,Organ
+http://79.120.77.11:8002/organ
+#EXTINF:0,piano
+http://79.120.77.11:8002/piano
+#EXTINF:0,Relaxation
+http://79.120.39.202:8002/relaxation
+#EXTINF:0,Rockballads
+http://79.120.77.11:8002/rockballads
+#EXTINF:0,Vesmirna music
+http://79.111.119.111:8002/spacemusic
+#EXTINF:0,Symfonicky rock
+http://79.120.39.202:8002/symphorock
+#EXTINF:0,tradelectronic
+http://79.111.14.76:8002/tradelectronic
